@@ -74,3 +74,39 @@ cd client
 npm install
 npm start
 ```
+## 🔑 Environment Variables
+
+Create a .env file in server folder:
+```bash
+PORT=5000
+MONGO_URI=your_mongodb_connection_string
+JWT_SECRET=your_secret_key
+```
+## 📁 Project Structure
+```bash
+kottam/
+│── client/        # React frontend
+│── server/        # Node backend
+│── models/        # MongoDB schemas
+│── routes/        # API routes
+│── controllers/   # Business logic
+```
+## 💡 Why This Project?
+
+This project was built to:
+
+- Simulate a real-world food delivery platform
+- Practice full-stack development
+- Learn deployment using modern tools
+
+## 🤝 Contributing
+
+Pull requests are welcome. For major changes, please open an issue first.
+
+## 📫 Contact
+GitHub: https://github.com/Manojamme27
+LinkedIn: https://www.linkedin.com/in/amme-manoj-4569b1228/
+
+## 📜 License
+
+MIT License
