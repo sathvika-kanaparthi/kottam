@@ -104,8 +104,8 @@ This project was built to:
 Pull requests are welcome. For major changes, please open an issue first.
 
 ## 📫 Contact
-- GitHub: https://github.com/Manojamme27
-- LinkedIn: https://www.linkedin.com/in/amme-manoj-4569b1228/
+- GitHub: https://github.com/sathvika-kanaparthi
+- LinkedIn: www.linkedin.com/in/sathvika-kanaparthi-3aa389407
 
 ## 📜 License
 
